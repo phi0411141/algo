@@ -1,0 +1,22 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi0411141/algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phi0411141/algo/issues"
+  },
+  "homepage": "https://github.com/phi0411141/algo#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
